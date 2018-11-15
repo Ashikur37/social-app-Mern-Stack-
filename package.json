@@ -1,0 +1,31 @@
+{
+  "name": "social-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashikur37/social-app-Mern-Stack-.git"
+  },
+  "author": "Ashikur Rahman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashikur37/social-app-Mern-Stack-/issues"
+  },
+  "homepage": "https://github.com/Ashikur37/social-app-Mern-Stack-#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12"
+  },
+  "devDependencies": {
+    "eslint": "^5.9.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
